@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "miyamura",
+    "slug": "miyamura",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "miyamura"
+}
